@@ -1,0 +1,168 @@
+{
+    "basics": {
+        "name": "Mezba Uddin Ahmed",
+        "label": "Computer Science student",
+        "email": "mezbauddinahmed0@gmail.com",
+        "phone": "(872) 396-9573",
+        "picture": "profile.jpg",
+        "x_title": "Hey, I'm",
+        "job": "Software Developer",
+        "description": "Software Developer specializing in building exceptional digital experiences.",
+        "summary": "based in Bengaluru, India.",
+        "keywords": "personal,website,portfolio,template,kit,Mezba,Ahmed,mezba23,computer,science,Bengaluru,india,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "https://www.linkedin.com/in/mezba23",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Bengaluru",
+            "country": "India",
+            "countryCode": "IN",
+            "region": "Bengaluru"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "mezbauddinahmed0@gmail.com",
+                "url": "mailto:mezbauddinahmed0@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "mezba23",
+                "url": "https://www.linkedin.com/in/mezba23/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "mezba23",
+                "url": "https://github.com/mezba23",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Instagram",
+                "username": "mezba_u_ahmed",
+                "url": "https://www.instagram.com/mezba_u_ahmed/",
+                "x_icon": "fab fa-instagram"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "area": "Computer Science and Engineering",
+            "gpa": "8.83",
+            "institution": "New Horizon College of Engineering",
+            "location": "Bengaluru, India",
+            "studyType": "BE",
+            "startDate": "July 2020",
+            "endDate": "August 2024"
+          },
+          {
+            "area": "Science",
+            "studyType": "Higher Secondary",
+            "institution": "Kendriya Vidyalaya no. 1, Tezpur",
+            "location": "Tezpur, Assam",
+            "startDate": "April 2019",
+            "endDate": "June 2020"
+          },
+          {
+            "institution": "Kendriya Vidyalaya no. 1, Tezpur",
+            "location": "Tezpur, Assam",
+            "studyType": "Secondary",
+            "startDate": "April 2017",
+            "endDate": "2018"
+          }
+    ],
+    "awards": [
+        {
+            "awarder": "New Horizon College of Engineering",
+            "summary": "",
+            "title": "5th Sem GPA - 9.00",
+            "date": "February 2023"
+          },
+          {
+            "title": "BuildWithAI Global Hackathon",
+            "date": "October 2021",
+            "awarder": "Hackmakers",
+            "summary": "Traditionally these NGOs are not equipped or funded to use the latest AI Data Driven Technology to  help provide these services efficiently with the best consumer experience. So we made a prototype to provide a solution built with AI. "
+          },
+          {
+            "title": "DSCE Hackman Hackathon",
+            "date": "June 2022",
+            "awarder": "Dayananda Sagar College of Engineering",
+            "summary": "We created a Prototype analyzing the current and historical trends in the stock market to make future buying and selling decisions. Stock market analysis is one of the best use cases of Data Science in finance. "
+          },
+          {
+            "title": "NHCE Idea Hackathon",
+            "date": "December 2021",
+            "awarder": "New Horizon Educational Institutions",
+            "summary": "Our solution was to give car related services in real-time using the location, wherever you’re even in the middle of the road or home. You just have to open the application and then enter the problem you are facing and turn on your GPS , it will detect your location and then the nearest mechanic will contact you and will reach you soon and the mechanic will repair your car. "
+          },
+          {
+            "title": "NHCE Quantum Hackathon",
+            "date": "Dec 2022",
+            "awarder": "New Horizon College of Engineering",
+            "summary": "We created a platforms that provide pre-designed templates and pre-filled content to job applicants to create their resumes quickly. They reduce the time necessary for developing a resume and can improve its visual appeal."
+          }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Assamese",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        }
+      
+    ],
+    "interests": [
+        {
+            "name": "Astronomy",
+            "keywords": ["Space", "Universe"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
